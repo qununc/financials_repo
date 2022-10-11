@@ -1,0 +1,14 @@
+name: .\conda_fineng_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - yfinance
+  - tqdm
+  - mkl
+  - requests
+prefix: .\conda_fineng_env
