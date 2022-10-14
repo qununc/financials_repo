@@ -6,6 +6,8 @@ dependencies:
   - python
   - numpy
   - pandas
+  - numexpr
+  - bottleneck
   - matplotlib
   - yfinance
   - tqdm
