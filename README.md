@@ -2,7 +2,13 @@
 
 Purely for my own purposes.
 
-# Update conda env using enviroments.yml
+# USAGE
+
+`.\venv\Scripts\activate`
+`pip install -r requirements.txt`
+
+
+# *DEPRECATED* Update conda env using enviroments.yml
 
 `mamba env update --prefix .\conda_fineng_env\ --file environment.yml  --prune`
 

@@ -1,0 +1,10 @@
+ipython>=8.5
+matplotlib>=3.6
+networkx>=2.8
+numpy>=1.23
+pandas>=1.5
+python-dateutil
+scipy>=1.9
+requests
+tqdm>=4.64
+yfinance>=0.1.79
