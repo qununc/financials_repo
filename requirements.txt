@@ -9,4 +9,5 @@ scipy>=1.9
 requests
 tqdm>=4.64
 yfinance>=0.1.79
+pandas_datareader
 
