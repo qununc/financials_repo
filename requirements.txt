@@ -10,4 +10,7 @@ requests
 tqdm>=4.64
 yfinance>=0.1.79
 pandas_datareader
-
+scikit-learn>=1.1
+statsmodels
+xlrd
+yapf
